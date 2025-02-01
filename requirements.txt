@@ -3,6 +3,7 @@ streamlit
 streamlit-extras
 audio-recorder-streamlit
 langchain-huggingface
+langchain-community
 langchain-groq
 langchain-google-genai
 faiss-cpu
