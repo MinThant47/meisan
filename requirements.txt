@@ -1,0 +1,11 @@
+langchain
+streamlit
+streamlit-extras
+audio-recorder-streamlit
+langchain-huggingface
+langchain-groq
+langchain-google-genai
+faiss-cpu
+langgraph
+SpeechRecognition
+firebase-admin
